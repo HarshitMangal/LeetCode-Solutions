@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -74,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Linked List
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+## Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
