@@ -36,7 +36,7 @@ public:
             }
 
         }
-         if(!block && !curr.empty())
+         if(!block&&!curr.empty())
             {
                 ans.push_back(curr);
                 curr = "";
