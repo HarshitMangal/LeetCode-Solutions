@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0722-remove-comments](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0722-remove-comments) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1095-find-in-mountain-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## String
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3467-transform-array-by-parity](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Combinatorics
