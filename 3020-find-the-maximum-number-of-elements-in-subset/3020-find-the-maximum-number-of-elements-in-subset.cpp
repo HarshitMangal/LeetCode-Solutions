@@ -1,5 +1,6 @@
 class Solution {
 public:
+  const long long LIMIT = 1000000000;
     int maximumLength(vector<int>& nums) {
 
         unordered_map<long long, int> freq;
@@ -30,7 +31,7 @@ public:
 
                 len += 2;
 
-                if (x > 31622)
+                if (x > sqrt(LIMIT))
                     break;
 
                 x = x * x;
