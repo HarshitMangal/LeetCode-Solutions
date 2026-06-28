@@ -33,7 +33,7 @@ public:
             auto [t, u, p] = pq.top();
             pq.pop();
 
-            if (t > best[u][p]) continue;
+            // if (t > best[u][p]) continue;
 
             // if we reached target, just update answer
             if (u == target) {
