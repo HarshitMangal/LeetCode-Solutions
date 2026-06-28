@@ -1,0 +1,18 @@
+class Solution {
+public:
+    int maximumElementAfterDecrementingAndRearranging(vector<int>& arr) {
+        int n=arr.size();
+        sort(arr.begin(),arr.end());
+        int maxi=1;
+        int pre=1;
+        arr[0]=1;
+        for(int i=1;i<n;i++){
+            int val=abs(arr[i]-arr[i-1]);
+              if(val>1){
+                arr[i]=pre+1;
+              }
+              pre=arr[i];
+        }
+              return pre;
+    }
+};
