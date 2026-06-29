@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3467-transform-array-by-parity](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-k-similar-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0854-k-similar-strings) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1078-occurrences-after-bigram](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1078-occurrences-after-bigram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3484-design-spreadsheet](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3484-design-spreadsheet) |
 | [3498-reverse-degree-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
