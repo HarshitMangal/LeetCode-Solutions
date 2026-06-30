@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1095-find-in-mountain-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1049-last-stone-weight-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2063-vowels-of-all-substrings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2262-total-appeal-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2262-total-appeal-of-a-string) |
