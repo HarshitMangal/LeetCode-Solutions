@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-occurrences-after-bigram](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1078-occurrences-after-bigram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2063-vowels-of-all-substrings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3484-design-spreadsheet](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3484-design-spreadsheet) |
 | [3498-reverse-degree-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [2063-vowels-of-all-substrings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## Enumeration
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [2063-vowels-of-all-substrings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2063-vowels-of-all-substrings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
