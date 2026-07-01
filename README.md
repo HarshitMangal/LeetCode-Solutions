@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
