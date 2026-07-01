@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0980-unique-paths-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0437-path-sum-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -339,5 +343,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
