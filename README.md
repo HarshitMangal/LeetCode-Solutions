@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3467-transform-array-by-parity](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Ordered Set
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3484-design-spreadsheet](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3484-design-spreadsheet) |
 ## Tree
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0854-k-similar-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0854-k-similar-strings) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3477-fruits-into-baskets-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Design
 |  |
@@ -329,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
