@@ -97,7 +97,7 @@ public:
         }
 
         int low=0;
-        int high=2*n;
+        int high=400;
         int ans=0;
 
         while(low<=high){
