@@ -21,7 +21,7 @@ public:
             ans.push_back(curr);
             return ;
         }
-        if(dots>=4) return ;
+        // if(dots>=4) return ;
           for(int i=1;i<=3&&i+idx<=n;i++){
             string temp=s.substr(idx,i);
             if(isvalid(temp)){
@@ -35,7 +35,6 @@ public:
     vector<string> restoreIpAddresses(string s) {
            vector<string>ans;
            int n=s.length();
-        //    if(n<3||n>12) return ans;
            solve(s,0,ans,0,"");
            return ans;
 
