@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [1095-find-in-mountain-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 ## Randomized
 |  |
