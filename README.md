@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1110-delete-nodes-and-return-forest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0655-print-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [1110-delete-nodes-and-return-forest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0854-k-similar-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0854-k-similar-strings) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0655-print-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -347,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [3484-design-spreadsheet](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3484-design-spreadsheet) |
 ## Bit Manipulation
 |  |
