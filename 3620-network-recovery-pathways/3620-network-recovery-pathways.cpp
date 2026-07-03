@@ -51,8 +51,8 @@ public:
             low = min(low, w);
             high = max(high, w);
 
-            if(u != 0 && u != n-1 && !online[u]) continue;
-            if(v != 0 && v != n-1 && !online[v]) continue;
+            if( !online[u]) continue;
+            if( !online[v]) continue;
 
             graph[u].push_back({v,w});
         }
