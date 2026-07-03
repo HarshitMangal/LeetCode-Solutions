@@ -1,15 +1,28 @@
 class Solution {
 public:
-    int hIndex(vector<int>& arr) {
-            int n=arr.size();
-         sort(arr.rbegin(),arr.rend());
-         int i=0;
-         int count=0;
-         while(i<n&&arr[i]>i){
-            count++;
-            i++;
-         }
+    int hIndex(vector<int>& citations) {
+        
+        reverse(citations.begin(), citations.end());
 
-         return count;
+        int n = citations.size();
+
+        int low = 0;
+        int high = n - 1;
+        int ans = -1;
+
+        while (low <= high) {
+
+            int mid = low + (high - low) / 2;
+
+            if (citations[mid] >= mid + 1) {
+                ans = mid;
+                low = mid + 1;      // last true
+            }
+            else {
+                high = mid - 1;
+            }
+        }
+
+        return ans + 1;
     }
 };
