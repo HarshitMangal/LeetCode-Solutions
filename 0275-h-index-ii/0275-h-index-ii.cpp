@@ -14,7 +14,7 @@ public:
 
             int mid = low + (high - low) / 2;
 
-            if (citations[mid] >= mid + 1) {
+            if (citations[mid] > mid ) {
                 ans = mid;
                 low = mid + 1;      // last true
             }
@@ -23,6 +23,6 @@ public:
             }
         }
 
-        return ans + 1;
+        return ans +1;
     }
 };
