@@ -38,9 +38,10 @@ public:
                         cur[i-1] = '1';
                         ops++;
                     }
-                } else {
-                    return -1;  // n==1, akela '1' kabhi clear nahi ho sakta
-                }
+                 }
+                 // else {
+                //     return -1;  // n==1, akela '1' kabhi clear nahi ho sakta
+                // }
             }
         }
         
