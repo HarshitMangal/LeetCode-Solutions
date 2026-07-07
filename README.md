@@ -499,4 +499,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-confirmation-rate](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3475-dna-pattern-recognition](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3475-dna-pattern-recognition) |
 <!---LeetCode Topics End-->
