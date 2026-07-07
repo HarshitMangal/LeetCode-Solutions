@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-k-similar-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0854-k-similar-strings) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1078-occurrences-after-bigram](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1078-occurrences-after-bigram) |
+| [1092-shortest-common-supersequence](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1049-last-stone-weight-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
+| [1092-shortest-common-supersequence](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2063-vowels-of-all-substrings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2262-total-appeal-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2262-total-appeal-of-a-string) |
