@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0146-lru-cache](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0146-lru-cache](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Stack
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -528,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3220-odd-and-even-transactions](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3220-odd-and-even-transactions) |
 | [3475-dna-pattern-recognition](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3497-analyze-subscription-conversion) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
