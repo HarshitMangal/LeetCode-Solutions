@@ -1,67 +1,47 @@
 class LFUCache {
 public:
-    // key -> {{value, frequency}, lastUsedTime}
-    unordered_map<int, pair<pair<int,int>, int>> mp;
-
-    int cap;
-    int timer = 0;
-
+  int capacity;
+  int time=0;
+  int fre=0;
+  unordered_map<int,pair<pair<int,int>,int>>mp; //{ key,{value,fre},timestamp}
     LFUCache(int capacity) {
-        cap = capacity;
+        this->capacity=capacity;
     }
-
+    
     int get(int key) {
-
-        if(mp.find(key) == mp.end())
-            return -1;
-
-        mp[key].first.second++;   // frequency++
-        mp[key].second = ++timer; // update last used time
-
-        return mp[key].first.first;
+         if(mp.find(key)==mp.end()) return -1;
+         mp[key].first.second++;
+         mp[key].second=++time;
+         return mp[key].first.first;
     }
-
+    
     void put(int key, int value) {
-
-        if(cap == 0)
-            return;
-
-        // Key already exists
-        if(mp.find(key) != mp.end()) {
-            mp[key].first.first = value;   // update value
-            mp[key].first.second++;        // frequency++
-            mp[key].second = ++timer;      // update time
+        if(mp.find(key)!=mp.end()){
+            mp[key].first.first=value;
+            mp[key].first.second++;
+            mp[key].second=++time;
             return;
         }
-
-        // Cache full
-        if(mp.size() == cap) {
-
-            int delKey = -1;
-            int minFreq = INT_MAX;
-            int minTime = INT_MAX;
-
-            for(auto &it : mp) {
-
-                int freq = it.second.first.second;
-                int time = it.second.second;
-
-                if(freq < minFreq) {
-                    minFreq = freq;
-                    minTime = time;
-                    delKey = it.first;
-                }
-                else if(freq == minFreq && time < minTime) {
-                    minTime = time;
-                    delKey = it.first;
-                }
-            }
-
-            mp.erase(delKey);
-        }
-
-        // Insert new key
-        mp[key] = {{value, 1}, ++timer};
+          if(mp.size()==capacity){
+        int minfre=INT_MAX;
+        int mintime=INT_MAX;
+         int deletekey=-1;
+         for(auto it:mp){
+             int fre=it.second.first.second;
+             int time=it.second.second;
+             if(fre<minfre){
+                minfre=fre;
+                mintime=time;
+                deletekey=it.first;
+             }
+             else if(fre==minfre&&time<mintime){
+                mintime=time;
+                deletekey=it.first;
+             }
+         }
+         mp.erase(deletekey);
+    }
+    mp[key]={{value,1},++time};
     }
 };
 
