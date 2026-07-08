@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1393-capital-gainloss](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1393-capital-gainloss) |
 | [1484-group-sold-products-by-the-date](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1527-patients-with-a-condition) |
