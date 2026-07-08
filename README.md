@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0460-lfu-cache](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0621-task-scheduler](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Stack
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0460-lfu-cache](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [3484-design-spreadsheet](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3484-design-spreadsheet) |
 ## Bit Manipulation
@@ -535,4 +538,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
