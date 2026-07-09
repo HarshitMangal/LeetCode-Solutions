@@ -1,15 +1,15 @@
 SELECT
     ROUND(
-        COUNT( a.player_id) /
+        COUNT(DISTINCT a.player_id) /
         (SELECT COUNT(DISTINCT player_id) FROM Activity),
         2
     ) AS fraction
 FROM Activity a
-JOIN (
-    SELECT player_id,
-           MIN(event_date) AS first_login
-    FROM Activity
-    GROUP BY player_id
-) t
-ON a.player_id = t.player_id
-WHERE DATEDIFF(a.event_date, t.first_login) = 1;
+WHERE DATEDIFF(
+        a.event_date,
+        (
+            SELECT MIN(event_date)
+            FROM Activity
+            WHERE player_id = a.player_id
+        )
+    ) = 1;
