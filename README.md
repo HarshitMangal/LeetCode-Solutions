@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0821-shortest-distance-to-a-character](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0274-h-index](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0621-task-scheduler) |
