@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3708-longest-fibonacci-subarray](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3708-longest-fibonacci-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3799-word-squares-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3799-word-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3798-largest-even-number](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3798-largest-even-number) |
+| [3799-word-squares-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3799-word-squares-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
+| [3799-word-squares-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3799-word-squares-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0980-unique-paths-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
+| [3799-word-squares-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3799-word-squares-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -471,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3467-transform-array-by-parity](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
+| [3799-word-squares-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3799-word-squares-ii) |
 ## Combinatorics
 |  |
 | ------- |
