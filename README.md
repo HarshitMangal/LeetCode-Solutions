@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3798-largest-even-number](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3798-largest-even-number) |
 ## Dynamic Programming
 |  |
 | ------- |
