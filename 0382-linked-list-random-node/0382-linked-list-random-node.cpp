@@ -10,18 +10,24 @@
  */
 class Solution {
 public:
-   vector<int>ans;
+//using samling method
+     ListNode*head;
     Solution(ListNode* head) {
-      while(head!=NULL){
-        ans.push_back(head->val);
-        head=head->next;
-      }
+          this->head=head;
     }
     
     int getRandom() {
-        int n=ans.size();
-        int idx=rand()%n;
-        return ans[idx];
+        ListNode*curr=head;
+        int count=1;
+        int ans=curr->val;
+        while(curr!=NULL){
+            if(rand()%count==0){
+                ans=curr->val;
+            }
+            count++;
+            curr=curr->next;
+        }
+        return ans;
     }
 };
 
