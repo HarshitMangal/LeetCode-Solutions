@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0398-random-pick-index](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0398-random-pick-index) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0621-task-scheduler](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0621-task-scheduler) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0398-random-pick-index) |
 | [0633-sum-of-square-numbers](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0869-reordered-power-of-2](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0398-random-pick-index) |
 ## Union-Find
 |  |
 | ------- |
@@ -605,4 +608,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
