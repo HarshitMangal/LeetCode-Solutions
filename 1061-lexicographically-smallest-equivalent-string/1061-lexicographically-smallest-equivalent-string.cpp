@@ -51,7 +51,7 @@ public:
 
         for (char c : baseStr)
         {
-            ans += char(rep[c - 'a'] + 'a');
+            ans+= rep[c-'a']+'a';
         }
 
         return ans;
