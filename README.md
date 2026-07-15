@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0922-sort-array-by-parity-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0980-unique-paths-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
+| [0990-satisfiability-of-equality-equations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-find-common-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0854-k-similar-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0854-k-similar-strings) |
+| [0990-satisfiability-of-equality-equations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-find-common-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0990-satisfiability-of-equality-equations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1514-path-with-maximum-probability](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0990-satisfiability-of-equality-equations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
