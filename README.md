@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2104-sum-of-subarray-ranges](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2262-total-appeal-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2262-total-appeal-of-a-string) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3477-fruits-into-baskets-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
