@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Queue
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Matrix
@@ -462,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3477-fruits-into-baskets-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -497,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3467-transform-array-by-parity](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
