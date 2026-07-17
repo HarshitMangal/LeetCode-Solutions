@@ -25,9 +25,9 @@ public:
 
     int getKthAncestor(int node, int k) {
 
-        for (int j = 0; j < cols; j++) {
+        for (int j = cols;j>=0;j-- ){
 
-            if (k & (1 << j)) {
+            if ((k>>j)&1) {
 
                 node = ances[node][j];
 
