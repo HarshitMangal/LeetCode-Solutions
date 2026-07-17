@@ -25,7 +25,7 @@ public:
 
     int getKthAncestor(int node, int k) {
 
-        for (int j = cols;j>=0;j-- ){
+        for (int j = 0;j<cols;j++ ){
 
             if ((k>>j)&1) {
 
