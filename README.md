@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2104-sum-of-subarray-ranges](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2317-maximum-xor-after-operations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2317-maximum-xor-after-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2063-vowels-of-all-substrings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2063-vowels-of-all-substrings) |
+| [2317-maximum-xor-after-operations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2317-maximum-xor-after-operations) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2317-maximum-xor-after-operations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2317-maximum-xor-after-operations) |
 ## Sorting
 |  |
 | ------- |
