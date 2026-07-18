@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1078-occurrences-after-bigram) |
 | [1092-shortest-common-supersequence](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0869-reordered-power-of-2](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0869-reordered-power-of-2) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
