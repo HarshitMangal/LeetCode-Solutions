@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1169-invalid-transactions](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1169-invalid-transactions) |
+| [1266-minimum-time-visiting-all-points](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+| [1266-minimum-time-visiting-all-points](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -717,4 +719,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
