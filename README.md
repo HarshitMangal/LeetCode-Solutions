@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0468-validate-ip-address](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0468-validate-ip-address) |
+| [0551-student-attendance-record-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0722-remove-comments) |
 | [0752-open-the-lock](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0752-open-the-lock) |
