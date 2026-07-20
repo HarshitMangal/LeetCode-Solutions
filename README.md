@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0523-continuous-subarray-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0722-remove-comments) |
 | [0752-open-the-lock](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0752-open-the-lock) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1046-last-stone-weight](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1514-path-with-maximum-probability](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0980-unique-paths-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1260-shift-2d-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0655-print-binary-tree) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0854-k-similar-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0854-k-similar-strings) |
