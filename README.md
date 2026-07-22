@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0257-binary-tree-paths](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0415-add-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0257-binary-tree-paths](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0257-binary-tree-paths](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0257-binary-tree-paths](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -580,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0949-largest-time-for-given-digits](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0949-largest-time-for-given-digits) |
 | [0980-unique-paths-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
