@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1169-invalid-transactions](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1169-invalid-transactions) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1169-invalid-transactions](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1169-invalid-transactions) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
 | [0848-shifting-letters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0848-shifting-letters) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
