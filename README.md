@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [0848-shifting-letters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0731-my-calendar-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
+| [0848-shifting-letters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0848-shifting-letters) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0848-shifting-letters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0848-shifting-letters) |
 | [0854-k-similar-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0854-k-similar-strings) |
 | [0859-buddy-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0859-buddy-strings) |
 | [0929-unique-email-addresses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0929-unique-email-addresses) |
