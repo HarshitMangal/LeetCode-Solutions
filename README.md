@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0814-binary-tree-pruning](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
