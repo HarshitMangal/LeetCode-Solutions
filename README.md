@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0319-bulb-switcher](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -858,4 +859,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
