@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0275-h-index-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0731-my-calendar-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0832-flipping-an-image](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0304-range-sum-query-2d-immutable](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
