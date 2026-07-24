@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2317-maximum-xor-after-operations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2317-maximum-xor-after-operations) |
 | [2381-shifting-letters-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2381-shifting-letters-ii) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Sliding Window
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Two Pointers
 |  |
 | ------- |
