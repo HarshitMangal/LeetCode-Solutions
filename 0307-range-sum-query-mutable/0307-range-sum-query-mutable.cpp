@@ -1,77 +1,55 @@
 class NumArray {
 public:
-    vector<int> segmentTree;
-    int n;
-
-    // Build Segment Tree
-    void build(int i, int l, int r, vector<int>& nums) {
-
-        if (l == r) {
-            segmentTree[i] = nums[l];
+     int n;
+      vector<int>segmentTree;
+    void build(vector<int>&nums,int l,int r,int index){
+        int n=nums.size();
+        if(l==r){
+            segmentTree[index]=nums[l];
             return;
         }
-
-        int mid = l + (r - l) / 2;
-
-        build(2 * i + 1, l, mid, nums);
-        build(2 * i + 2, mid + 1, r, nums);
-
-        segmentTree[i] = segmentTree[2 * i + 1] + segmentTree[2 * i + 2];
-    }
-
-    // Point Update
-    void Update(int index, int val, int i, int l, int r) {
-
-        if (l == r) {
-            segmentTree[i] = val;
+        int mid=l+(r-l)/2;
+        build(nums,l,mid,2*index+1);
+        build(nums,mid+1,r,2*index+2);
+        segmentTree[index]=segmentTree[2*index+1]+segmentTree[2*index+2];    
+}
+    void Update(int l,int r,int index,int val,int i){
+        if(l==r){
+            segmentTree[i]=val;
             return;
         }
-
-        int mid = l + (r - l) / 2;
-
-        if (index <= mid)
-            Update(index, val, 2 * i + 1, l, mid);
-        else
-            Update(index, val, 2 * i + 2, mid + 1, r);
-
-        segmentTree[i] = segmentTree[2 * i + 1] + segmentTree[2 * i + 2];
+        int mid=l+(r-l)/2;
+        if(index<=mid){
+            Update(l,mid,index,val,2*i+1);
+        }
+        else{
+            Update(mid+1,r,index,val,2*i+2);
+        }
+        segmentTree[i]=segmentTree[2*i+1]+segmentTree[2*i+2];
     }
-
-    // Range Query
-    int Query(int left, int right, int i, int l, int r) {
-
-        // No Overlap
-        if (l > right || r < left)
-            return 0;
-
-        // Complete Overlap
-        if (left <= l && r <= right)
-            return segmentTree[i];
-
-        // Partial Overlap
-        int mid = l + (r - l) / 2;
-
-        return Query(left, right, 2 * i + 1, l, mid) +
-               Query(left, right, 2 * i + 2, mid + 1, r);
+    int Query(int l,int r,int left,int right,int idx){
+        //no overlap
+        if(l>right||r<left) return 0;
+        
+        int mid=l+(r-l)/2;
+        //compleete overlap
+        if(l>=left&&r<=right) return segmentTree[idx];
+        //partial overlap
+            return Query(l,mid,left,right,2*idx+1)+Query(mid+1,r,left,right,2*idx+2);
     }
-
     NumArray(vector<int>& nums) {
-
-        n = nums.size();
-
-        segmentTree.resize(4 * n);
-
-        build(0, 0, n - 1, nums);
+         n=nums.size();
+        segmentTree.resize(4*n);
+        build(nums,0,n-1,0);
+        
     }
-
+    
     void update(int index, int val) {
-
-        Update(index, val, 0, 0, n - 1);
+        Update(0,n-1,index,val,0);
     }
-
+    
     int sumRange(int left, int right) {
-
-        return Query(left, right, 0, 0, n - 1);
+         return Query(0,n-1,left,right,0);
     }
 };
 
