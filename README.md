@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Heap (Priority Queue)
 |  |
