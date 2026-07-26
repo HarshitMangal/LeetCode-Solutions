@@ -602,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0949-largest-time-for-given-digits](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0949-largest-time-for-given-digits) |
 | [0980-unique-paths-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [3799-word-squares-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3799-word-squares-ii) |
 ## Binary Search
 |  |
