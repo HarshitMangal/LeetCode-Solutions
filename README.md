@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2317-maximum-xor-after-operations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2317-maximum-xor-after-operations) |
 | [2381-shifting-letters-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2381-shifting-letters-ii) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2381-shifting-letters-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2381-shifting-letters-ii) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
