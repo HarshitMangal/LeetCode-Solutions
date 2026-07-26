@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2381-shifting-letters-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2381-shifting-letters-ii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
