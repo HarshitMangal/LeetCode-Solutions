@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2615-sum-of-distances](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2262-total-appeal-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2262-total-appeal-of-a-string) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2615-sum-of-distances](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2381-shifting-letters-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2381-shifting-letters-ii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2615-sum-of-distances](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
