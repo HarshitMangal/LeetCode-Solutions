@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0859-buddy-strings) |
 | [0869-reordered-power-of-2](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [0929-unique-email-addresses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0929-unique-email-addresses) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1002-find-common-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0814-binary-tree-pruning](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0854-k-similar-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0854-k-similar-strings) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -752,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0869-reordered-power-of-2](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [0922-sort-array-by-parity-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-two-city-scheduling](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1169-invalid-transactions](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1169-invalid-transactions) |
 | [1288-remove-covered-intervals](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
