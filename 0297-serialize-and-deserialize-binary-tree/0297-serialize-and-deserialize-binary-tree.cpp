@@ -6,61 +6,63 @@
  *     TreeNode *right;
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
- */class Codec {
+ */
+class Codec {
 public:
-    // Preorder traversal for serialization
-    void preorder(TreeNode* root, vector<int>& ans) {
-        if (!root) {
-            ans.push_back(INT_MIN); // null marker (better than -1 for safety)
+
+    // Encodes a tree to a single string.
+     void preorder(TreeNode*root,vector<int>&ans){
+        if(root==NULL){
+            ans.push_back(INT_MIN);
             return;
         }
         ans.push_back(root->val);
-        preorder(root->left, ans);
-        preorder(root->right, ans);
-    }
+        preorder(root->left,ans);
+        preorder(root->right,ans);
+     }
 
-    // Encodes a tree to a single string
     string serialize(TreeNode* root) {
-        vector<int> ans;
-        preorder(root, ans);
-        string temp;
-        for (int i = 0; i < ans.size(); i++) {
-            temp += to_string(ans[i]) + " "; // space separator
-        }
-        return temp;
+        vector<int>ans;
+        preorder(root,ans);
+          string temp="";
+          for(auto it:ans){
+            temp+=to_string(it)+" ";
+          }
+          return temp;
     }
-
     int idx;
-
-    TreeNode* build(const vector<int>& arr) {
-        if (arr[idx] == INT_MIN) { // null marker
-            idx++;
-            return NULL;
-        }
-        TreeNode* node = new TreeNode(arr[idx++]);
-        node->left = build(arr);
-        node->right = build(arr);
-        return node;
+    TreeNode*build(vector<int>&arr){
+     if(arr[idx]==INT_MIN){
+        idx++;
+        return NULL;
+     }
+     TreeNode*root=new TreeNode(arr[idx++]);
+     root->left=build(arr);
+     root->right=build(arr);
+     return root;
     }
 
-    // Decodes string to tree
+    // Decodes your encoded data to tree.
     TreeNode* deserialize(string temp) {
-        vector<int> arr;
-        string num = "";
-        for (char c : temp) {
-            if (c == ' ') { // space separator
-                if (!num.empty()) {
-                    arr.push_back(stoi(num));
-                    num.clear();
+         vector<int>arr;
+         string curr="";
+        for(auto it:temp){
+            if(it==' '){
+                if(!curr.empty()){
+                    arr.push_back(stoi(curr));
+                    curr.clear();
                 }
-            } else {
-                num += c;
             }
+            else{
+                curr+=it;
+            }
+
         }
-        idx = 0;
+        idx=0;
         return build(arr);
     }
 };
+
 // Your Codec object will be instantiated and called as such:
 // Codec ser, deser;
 // TreeNode* ans = deser.deserialize(ser.serialize(root));
