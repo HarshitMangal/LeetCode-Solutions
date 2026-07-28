@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0133-clone-graph](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0187-repeated-dna-sequences](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0168-excel-sheet-column-title](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0187-repeated-dna-sequences](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -947,4 +951,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [1472-design-browser-history](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1472-design-browser-history) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
