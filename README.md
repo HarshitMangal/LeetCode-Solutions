@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2381-shifting-letters-ii) |
 | [2437-number-of-valid-clock-times](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2437-number-of-valid-clock-times) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3271-hash-divided-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2429-minimize-xor](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2429-minimize-xor) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Matrix
 |  |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
