@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0922-sort-array-by-parity-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0877-stone-game](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1049-last-stone-weight-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0869-reordered-power-of-2](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0869-reordered-power-of-2) |
+| [0877-stone-game](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -990,4 +993,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
