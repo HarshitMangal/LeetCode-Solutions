@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2043-simple-bank-system](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2043-simple-bank-system) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2104-sum-of-subarray-ranges](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2121-intervals-between-identical-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2121-intervals-between-identical-elements) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2043-simple-bank-system](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2043-simple-bank-system) |
 | [2121-intervals-between-identical-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2262-total-appeal-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2262-total-appeal-of-a-string) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [2043-simple-bank-system](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2043-simple-bank-system) |
 | [3271-hash-divided-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1472-design-browser-history) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2043-simple-bank-system](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2043-simple-bank-system) |
 | [2241-design-an-atm-machine](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2241-design-an-atm-machine) |
 | [3484-design-spreadsheet](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3484-design-spreadsheet) |
 ## Bit Manipulation
