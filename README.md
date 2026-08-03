@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2104-sum-of-subarray-ranges](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2121-intervals-between-identical-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2121-intervals-between-identical-elements) |
+| [2241-design-an-atm-machine](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2241-design-an-atm-machine) |
 | [2317-maximum-xor-after-operations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2317-maximum-xor-after-operations) |
 | [2381-shifting-letters-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2381-shifting-letters-ii) |
 | [2401-longest-nice-subarray](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2241-design-an-atm-machine](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2241-design-an-atm-machine) |
 | [2429-minimize-xor](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2429-minimize-xor) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3462-maximum-sum-with-at-most-k-elements) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1472-design-browser-history) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2241-design-an-atm-machine](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2241-design-an-atm-machine) |
 | [3484-design-spreadsheet](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3484-design-spreadsheet) |
 ## Bit Manipulation
 |  |
