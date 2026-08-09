@@ -1,35 +1,52 @@
 class Solution {
 public:
     vector<int> validSequence(string word1, string word2) {
-        int N=word1.size();
-        int M=word2.size();
-        int R=M-1;
-        int C=0;
-        vector<int> Right(N);
-        for(int i=N-1;i>=0;i--){
-            Right[i]=C;
-            if(R>=0 && word1[i]==word2[R]){
-                R--;
-                C++;
+
+        int n = word1.length();
+        int m = word2.length();
+
+        vector<int> rightHandSideMatchLength(n, 0);
+
+        int rightMatched = 0;
+        int i = n - 1;
+        int j = m - 1;
+
+        // Suffix matching
+        while (i >= 0) {
+            if (j >= 0 && word1[i] == word2[j]) {
+                rightMatched++;
+                j--;
             }
+
+            rightHandSideMatchLength[i] = rightMatched;
+            i--;
         }
-        vector<int> ans;
-        bool changed=false;
-        int j=0;
-        for(int i=0;i<N && j<M;i++){
-            if(word1[i]==word2[j]){
-                ans.push_back(i);
+
+        vector<int> seq;
+
+        bool changePower = true; // can change only one character
+
+        i = 0;
+        j = 0;
+
+        while (i < n && j < m) {
+
+            if (word1[i] == word2[j]) {
+                seq.push_back(i);
                 j++;
             }
-            else if(!changed && Right[i]>=M-1-j){
-                ans.push_back(i);
+            else if (changePower == true &&
+                     i + 1 < n &&
+                     rightHandSideMatchLength[i + 1] >= m - j - 1) {
+
+                seq.push_back(i);
                 j++;
-                changed=true;
+                changePower = false;
             }
+
+            i++;
         }
-        if(j==M){
-            return ans;
-        }
-        return {};
+
+        return j == m ? seq : vector<int>();
     }
 };
