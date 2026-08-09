@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3206-alternating-groups-i) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3206-alternating-groups-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2429-minimize-xor](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2429-minimize-xor) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
