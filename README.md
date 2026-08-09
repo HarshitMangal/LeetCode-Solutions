@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-number-of-valid-clock-times](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2437-number-of-valid-clock-times) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3271-hash-divided-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
