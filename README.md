@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1436-destination-city](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1396-design-underground-system](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1396-design-underground-system) |
 | [1436-destination-city](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1436-destination-city) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -754,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1952-three-divisors](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1952-three-divisors) |
@@ -884,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0980-unique-paths-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1755-closest-subsequence-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1763-longest-nice-substring](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
