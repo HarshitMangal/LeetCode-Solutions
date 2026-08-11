@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2615-sum-of-distances](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2381-shifting-letters-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2381-shifting-letters-ii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2615-sum-of-distances](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-total-appeal-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2262-total-appeal-of-a-string) |
 | [2381-shifting-letters-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2381-shifting-letters-ii) |
 | [2437-number-of-valid-clock-times](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2437-number-of-valid-clock-times) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
