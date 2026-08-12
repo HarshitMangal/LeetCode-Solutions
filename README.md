@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0307-range-sum-query-mutable](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0415-add-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0468-validate-ip-address](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0468-validate-ip-address) |
