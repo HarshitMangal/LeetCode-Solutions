@@ -649,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0655-print-binary-tree) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0655-print-binary-tree) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0655-print-binary-tree) |
@@ -1126,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Geometry
