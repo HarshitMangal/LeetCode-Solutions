@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0877-stone-game](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0890-find-and-replace-pattern](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [0896-monotonic-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0922-sort-array-by-parity-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-k-similar-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0854-k-similar-strings) |
 | [0859-buddy-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0859-buddy-strings) |
 | [0869-reordered-power-of-2](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0869-reordered-power-of-2) |
+| [0890-find-and-replace-pattern](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [0929-unique-email-addresses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1002-find-common-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1002-find-common-characters) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0848-shifting-letters) |
 | [0854-k-similar-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0854-k-similar-strings) |
 | [0859-buddy-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0859-buddy-strings) |
+| [0890-find-and-replace-pattern](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [0929-unique-email-addresses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0949-largest-time-for-given-digits](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0949-largest-time-for-given-digits) |
 | [0990-satisfiability-of-equality-equations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
