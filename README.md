@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
