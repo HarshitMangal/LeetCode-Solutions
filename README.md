@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3467-transform-array-by-parity](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3484-design-spreadsheet](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3484-design-spreadsheet) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3484-design-spreadsheet](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3484-design-spreadsheet) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
