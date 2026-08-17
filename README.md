@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2295-replace-elements-in-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2317-maximum-xor-after-operations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2317-maximum-xor-after-operations) |
+| [2352-equal-row-and-column-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2381-shifting-letters-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2381-shifting-letters-ii) |
 | [2401-longest-nice-subarray](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2262-total-appeal-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2262-total-appeal-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2615-sum-of-distances](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [2043-simple-bank-system](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2043-simple-bank-system) |
 | [2295-replace-elements-in-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3271-hash-divided-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1905-count-sub-islands](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1992-find-all-groups-of-farmland) |
+| [2352-equal-row-and-column-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
