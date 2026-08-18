@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0641-design-circular-deque](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
+| [0648-replace-words](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0535-encode-and-decode-tinyurl](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0621-task-scheduler](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0648-replace-words](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0677-map-sum-pairs) |
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0752-open-the-lock) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0468-validate-ip-address) |
 | [0535-encode-and-decode-tinyurl](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0551-student-attendance-record-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
+| [0648-replace-words](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0677-map-sum-pairs) |
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0722-remove-comments) |
@@ -1083,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0648-replace-words](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0677-map-sum-pairs) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
