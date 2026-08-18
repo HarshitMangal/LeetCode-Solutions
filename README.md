@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2381-shifting-letters-ii) |
 | [2401-longest-nice-subarray](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2262-total-appeal-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2262-total-appeal-of-a-string) |
 | [2381-shifting-letters-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2381-shifting-letters-ii) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2437-number-of-valid-clock-times](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2437-number-of-valid-clock-times) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1081,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0677-map-sum-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0677-map-sum-pairs) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Shortest Path
 |  |
