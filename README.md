@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0535-encode-and-decode-tinyurl](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0621-task-scheduler](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0677-map-sum-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0677-map-sum-pairs) |
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0771-jewels-and-stones](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0468-validate-ip-address) |
 | [0535-encode-and-decode-tinyurl](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0551-student-attendance-record-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
+| [0677-map-sum-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0677-map-sum-pairs) |
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0722-remove-comments) |
 | [0752-open-the-lock](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0752-open-the-lock) |
@@ -948,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0622-design-circular-queue](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
+| [0677-map-sum-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [0729-my-calendar-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
@@ -1077,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0677-map-sum-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0677-map-sum-pairs) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Shortest Path
 |  |
