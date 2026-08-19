@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0848-shifting-letters) |
+| [0851-loud-and-rich](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0851-loud-and-rich) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0877-stone-game](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0814-binary-tree-pruning](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
+| [0851-loud-and-rich](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0851-loud-and-rich) |
 | [0872-leaf-similar-trees](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
@@ -881,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0685-redundant-connection-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0685-redundant-connection-ii) |
+| [0851-loud-and-rich](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0851-loud-and-rich) |
 | [0990-satisfiability-of-equality-equations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1514-path-with-maximum-probability](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -901,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0851-loud-and-rich](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0851-loud-and-rich) |
 | [2050-parallel-courses-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2050-parallel-courses-iii) |
 | [3620-network-recovery-pathways](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
@@ -1262,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0851-loud-and-rich](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0851-loud-and-rich) |
 | [2050-parallel-courses-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2050-parallel-courses-iii) |
 ## String Matching
 |  |
