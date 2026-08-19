@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
@@ -1019,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
