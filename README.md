@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0424-longest-repeating-character-replacement](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0523-continuous-subarray-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0415-add-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0468-validate-ip-address](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0468-validate-ip-address) |
 | [0535-encode-and-decode-tinyurl](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
