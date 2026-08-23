@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0677-map-sum-pairs) |
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0752-open-the-lock) |
+| [0763-partition-labels](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0811-subdomain-visit-count) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0763-partition-labels](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0821-shortest-distance-to-a-character](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0722-remove-comments) |
 | [0752-open-the-lock](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0752-open-the-lock) |
+| [0763-partition-labels](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0811-subdomain-visit-count) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
+| [0763-partition-labels](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [1024-video-stitching](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
