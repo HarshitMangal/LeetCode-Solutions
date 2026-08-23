@@ -719,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0655-print-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0655-print-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
@@ -1238,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Geometry
