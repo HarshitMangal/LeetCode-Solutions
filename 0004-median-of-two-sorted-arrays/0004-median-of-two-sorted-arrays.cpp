@@ -1,31 +1,47 @@
+
+
+
+
+
 class Solution {
 public:
-    double findMedianSortedArrays(vector<int>& a, vector<int>& b) {
-          if (a.size() > b.size()) return findMedianSortedArrays(b, a);
-    
-    int n = a.size(), m = b.size();
-    int low = 0, high = n;
-    
-    while (low <= high) {
-        int cut1 = (low + high) / 2;
-        int cut2 = (n + m + 1)/2 - cut1;
-        
-        int leftA = (cut1 == 0) ? INT_MIN : a[cut1 - 1];
-        int leftB = (cut2 == 0) ? INT_MIN : b[cut2 - 1];
-        int rightA = (cut1 == n) ? INT_MAX : a[cut1];
-        int rightB = (cut2 == m) ? INT_MAX : b[cut2];
-        
-        if (leftA <= rightB && leftB <= rightA) {
-            if ((n + m) % 2 == 0)
-                return (max(leftA, leftB) + min(rightA, rightB)) / 2.0;
-            else
-                return max(leftA, leftB);
+    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        // Ensure binary search is performed on the smaller array
+        if (nums1.size() > nums2.size()) {
+            return findMedianSortedArrays(nums2, nums1);
         }
-        else if (leftA > rightB)
-            high = cut1 - 1;
-        else
-            low = cut1 + 1;
-    }
-    return 0.0; 
+
+        int m = nums1.size();
+        int n = nums2.size();
+        int low = 0, high = m;
+
+        while (low <= high) {
+            int partition1 = low + (high - low) / 2;
+            int partition2 = (m + n + 1) / 2 - partition1;
+
+            int maxLeft1 = (partition1 == 0) ? INT_MIN : nums1[partition1 - 1];
+            int minRight1 = (partition1 == m) ? INT_MAX : nums1[partition1];
+
+            int maxLeft2 = (partition2 == 0) ? INT_MIN : nums2[partition2 - 1];
+            int minRight2 = (partition2 == n) ? INT_MAX : nums2[partition2];
+
+            if (maxLeft1 <= minRight2 && maxLeft2 <= minRight1) {
+                // Correct partition found
+                if ((m + n) % 2 == 1) {
+                    return max(maxLeft1, maxLeft2);
+                } else {
+                    return (max(maxLeft1, maxLeft2) + min(minRight1, minRight2)) / 2.0;
+                }
+            } else if (maxLeft1 > minRight2) {
+                // Move left in nums1
+                high = partition1 - 1;
+            } else {
+                // Move right in nums1
+                low = partition1 + 1;
+            }
+        }
+
+        return 0.0;
     }
 };
+
