@@ -626,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1472-design-browser-history) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Stack
 |  |
 | ------- |
