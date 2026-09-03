@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0260-single-number-iii) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0189-rotate-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
