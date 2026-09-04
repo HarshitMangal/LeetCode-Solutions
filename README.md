@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0523-continuous-subarray-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0535-encode-and-decode-tinyurl](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0560-subarray-sum-equals-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0677-map-sum-pairs) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0523-continuous-subarray-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
 | [0848-shifting-letters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0848-shifting-letters) |
