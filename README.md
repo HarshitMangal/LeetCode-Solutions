@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0079-word-search) |
@@ -1010,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0090-subsets-ii) |
@@ -1417,4 +1419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
