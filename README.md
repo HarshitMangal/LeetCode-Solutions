@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0051-n-queens) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -1026,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
@@ -1442,6 +1446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 ## Longest Increasing Subsequence
@@ -1452,4 +1457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
