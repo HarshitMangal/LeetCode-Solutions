@@ -1,25 +1,29 @@
 class Solution {
 public:
-   bool ispal(string &s,int i,int j){
-    int n=s.length();
-    while(i<j){
-        if(s[i]!=s[j]) return false;
-        i++;
-        j--;
-    }
-    return true;
-   }
-    int countSubstrings(string s) {
-        int n=s.length();
-        int count=0;
-        for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                if(ispal(s,i,j)){
-                    count++;
-                }
-            }
-        }
-        return count;
+    int ispal(string &s, int i, int j) {
+        int count = 0;
 
+        while (j < s.length() && i >= 0 && s[i] == s[j]) {
+            count++;
+            i--;
+            j++;
+        }
+
+        return count;
+    }
+
+    int countSubstrings(string s) {
+        int n = s.length();
+        int count = 0;
+
+        for (int i = 0; i < n; i++) {
+            // Odd length palindrome
+            count += ispal(s, i, i);
+
+            // Even length palindrome
+            count += ispal(s, i, i + 1);
+        }
+
+        return count;
     }
 };
