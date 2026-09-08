@@ -848,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1905-count-sub-islands](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1905-count-sub-islands) |
@@ -889,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1462-course-schedule-iv](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1905-count-sub-islands](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1905-count-sub-islands) |
@@ -1009,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0685-redundant-connection-ii) |
 | [0851-loud-and-rich](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0851-loud-and-rich) |
 | [0990-satisfiability-of-equality-equations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
+| [1462-course-schedule-iv](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2050-parallel-courses-iii) |
@@ -1029,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0851-loud-and-rich](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0851-loud-and-rich) |
+| [1462-course-schedule-iv](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 | [2050-parallel-courses-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2050-parallel-courses-iii) |
 | [3620-network-recovery-pathways](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
