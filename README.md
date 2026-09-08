@@ -834,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
@@ -880,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1017,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0685-redundant-connection-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0685-redundant-connection-ii) |
 | [0851-loud-and-rich](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0851-loud-and-rich) |
 | [0990-satisfiability-of-equality-equations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
@@ -1040,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0851-loud-and-rich](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 | [2050-parallel-courses-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2050-parallel-courses-iii) |
