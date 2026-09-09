@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0477-total-hamming-distance](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -1068,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0949-largest-time-for-given-digits](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0949-largest-time-for-given-digits) |
 | [0980-unique-paths-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
@@ -1520,4 +1523,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
