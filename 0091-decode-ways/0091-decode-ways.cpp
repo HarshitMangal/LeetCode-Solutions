@@ -8,7 +8,7 @@ public:
         //sabse phle one ke
         if(s[idx]=='0') return dp[idx]=0;
         ways=solve(s,dp,idx+1);
-        if(idx+1<n){
+        if(idx+2<=n){
             int temp=stoi(s.substr(idx,2));
             if(temp>=1&&temp<=26){
             ways+=solve(s,dp,idx+2);
