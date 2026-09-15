@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0091-decode-ways) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -722,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0907-sum-of-subarray-minimums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
