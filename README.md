@@ -699,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2043-simple-bank-system](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2043-simple-bank-system) |
 | [2295-replace-elements-in-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [3100-water-bottles-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3100-water-bottles-ii) |
 | [3271-hash-divided-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3271-hash-divided-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -1040,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2523-closest-prime-numbers-in-range](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3100-water-bottles-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3100-water-bottles-ii) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
