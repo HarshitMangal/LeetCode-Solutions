@@ -1,27 +1,28 @@
 class WordDictionary {
 public:
+    struct TrieNode{
+        TrieNode*children[26];
+        bool isendofword;
 
-     struct TrieNode{
-    bool isendofword;
-    TrieNode*children[26];
-  };
-  TrieNode *getNode(){
-    TrieNode*newNode=new TrieNode();
-    for(int i=0;i<26;i++){
-        newNode->children[i]=NULL;
+    };
+    TrieNode *getNode(){
+        TrieNode *newNode=new TrieNode();
+        for(int i=0;i<26;i++){
+            newNode->children[i]=NULL;
+        }
+        newNode->isendofword=false;
+        return newNode;
     }
-    newNode->isendofword=false;
-    return newNode;
-  }
-
-    TrieNode*root;
+     TrieNode*root;
     WordDictionary() {
-     root=getNode();
+        root=getNode();
+        
     }
     
     void addWord(string s) {
-         TrieNode*crawler=root;
-        for(int i=0;i<s.length();i++){
+        int n=s.length();
+        TrieNode*crawler=root;
+        for(int i=0;i<n;i++){
             char ch=s[i];
             int idx=ch-'a';
             if(crawler->children[idx]==NULL){
@@ -29,29 +30,39 @@ public:
             }
             crawler=crawler->children[idx];
         }
-        crawler->isendofword=true; 
+        crawler->isendofword=true;
+
+        
     }
-    bool helper(string s,TrieNode*root){
-           int n=s.length();
+    bool solve(string &s,TrieNode*root,int idx){
+        int n=s.length();
         TrieNode*crawler=root;
-        for(int i=0;i<n;i++){
-            if(s[i]=='.'){
+        for(int i=idx;i<n;i++){
+            char ch=s[i];
+            if(ch=='.'){
                 for(int j=0;j<26;j++){
-                    if(crawler->children[j]!=NULL){
-                        if(helper(s.substr(i+1),crawler->children[j])) return true;
-                    }
-                    
+                    ch=j+'a';
+                    if(crawler->children[ch-'a']!=NULL)
+                    if(solve(s,crawler->children[ch-'a'],i+1)) return true;
+                    // return false;
+
+
                 }
-                return false;
             }
-             if(crawler->children[s[i]-'a']==NULL) return false;
-             crawler=crawler->children[s[i]-'a'];
+             if(crawler->children[ch-'a']==NULL) return false;
+            crawler=crawler->children[ch-'a'];
         }
-        return crawler->isendofword;
+        if(crawler->isendofword==true) return true;
+        return false;
+
     }
     
-    bool search(string s) {
-       return helper(s,root);
+    bool search(string word) {
+        int n=word.length();
+        if(solve(word,root,0)) return true;
+        return false;
+
+        
     }
 };
 
