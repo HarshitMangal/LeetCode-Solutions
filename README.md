@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0877-stone-game](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0814-binary-tree-pruning](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0851-loud-and-rich](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0851-loud-and-rich) |
 | [0872-leaf-similar-trees](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
@@ -944,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0752-open-the-lock) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0815-bus-routes](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0815-bus-routes) |
 | [0854-k-similar-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0854-k-similar-strings) |
 | [0919-complete-binary-tree-inserter](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0919-complete-binary-tree-inserter) |
@@ -1079,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0685-redundant-connection-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0685-redundant-connection-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0851-loud-and-rich](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0851-loud-and-rich) |
 | [0990-satisfiability-of-equality-equations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1462-course-schedule-iv](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
@@ -1334,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
