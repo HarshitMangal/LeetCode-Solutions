@@ -11,7 +11,7 @@ public:
             for(int j=0;j<m;j++){
                temp[i+j]+=(s1[i]-'0')*(s2[j]-'0');
                temp[i+j+1]+=temp[i+j]/10;
-               temp[i+j]%=10;
+               temp[i+j]=temp[i+j]%10;
                 
             }
         }
