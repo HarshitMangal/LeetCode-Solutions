@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-k-similar-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0854-k-similar-strings) |
 | [0859-buddy-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0859-buddy-strings) |
 | [0890-find-and-replace-pattern](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0949-largest-time-for-given-digits](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0949-largest-time-for-given-digits) |
 | [0990-satisfiability-of-equality-equations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1472-design-browser-history](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1472-design-browser-history) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1024-video-stitching](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1618,4 +1621,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
