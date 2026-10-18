@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1514-path-with-maximum-probability](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1528-shuffle-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1528-shuffle-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1652-defuse-the-bomb](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0427-construct-quad-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1763-longest-nice-substring](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1755-closest-subsequence-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [2050-parallel-courses-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2050-parallel-courses-iii) |
@@ -888,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3249-count-the-number-of-good-nodes](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3249-count-the-number-of-good-nodes) |
 ## Depth-First Search
@@ -1024,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Math
 |  |
@@ -1064,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1510-stone-game-iv](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1927-sum-game](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1952-three-divisors) |
@@ -1313,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2063-vowels-of-all-substrings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
@@ -1349,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1905-count-sub-islands](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -1468,6 +1476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Geometry
 |  |
 | ------- |
@@ -1621,6 +1630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -1650,4 +1660,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
