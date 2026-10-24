@@ -621,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2262-total-appeal-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2262-total-appeal-of-a-string) |
 | [2381-shifting-letters-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2381-shifting-letters-ii) |
+| [2409-count-days-spent-together](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2437-number-of-valid-clock-times](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2437-number-of-valid-clock-times) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1080,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2317-maximum-xor-after-operations](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2317-maximum-xor-after-operations) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2409-count-days-spent-together](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
