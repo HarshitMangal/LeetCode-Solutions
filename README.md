@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1131-maximum-of-absolute-value-expression](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1140-stone-game-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1169-invalid-transactions](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1169-invalid-transactions) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1169-invalid-transactions](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1169-invalid-transactions) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1169-invalid-transactions](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1169-invalid-transactions) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1211,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -1321,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-two-city-scheduling](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1169-invalid-transactions](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1169-invalid-transactions) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1288-remove-covered-intervals](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
