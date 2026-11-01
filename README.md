@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -1073,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
