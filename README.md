@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3206-alternating-groups-i) |
