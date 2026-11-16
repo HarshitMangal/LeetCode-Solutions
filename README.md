@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2063-vowels-of-all-substrings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2262-total-appeal-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2262-total-appeal-of-a-string) |
 | [2381-shifting-letters-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2381-shifting-letters-ii) |
 | [2409-count-days-spent-together](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1603-design-parking-system](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [2043-simple-bank-system](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2043-simple-bank-system) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3100-water-bottles-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3100-water-bottles-ii) |
