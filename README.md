@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3620-network-recovery-pathways](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/HarshitMangal/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
